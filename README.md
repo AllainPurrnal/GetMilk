@@ -15,7 +15,7 @@ GetMilk is a lightweight list/task app that helps you remember to get milk the n
 2. [MongoDB](https://www.mongodb.com/) - Document-based database to store list items and tasks
     
 ## Demo
-[GetMilk](https://frozen-stream-30142.herokuapp.com/)
+[Heroku](https://frozen-stream-30142.herokuapp.com/)
 
 *Please give the app a moment to load, heroku is a bit slow on initial startup*
 
